@@ -11,8 +11,7 @@ The purpose of this analysis is to evaluate the performance of three sampling al
 Credit card dataset was taken from LendingClub, a peer-to-peer lending services company.
 
 ## Results
-instances = loans
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
+Notes: instances mean loans
 
 ### Naive Random Oversampling
 ![Random oversampling results](images/random_results.png)
