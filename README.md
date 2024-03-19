@@ -11,7 +11,7 @@ The purpose of this analysis is to evaluate the performance of three sampling al
 Credit card dataset was taken from LendingClub, a peer-to-peer lending services company.
 
 ## Results
-Notes: instances mean loans
+Note: instances mean loans
 
 ### Naive Random Oversampling
 ![Random oversampling results](images/random_results.png)
